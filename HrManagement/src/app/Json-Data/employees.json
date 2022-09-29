@@ -1,0 +1,40 @@
+{
+    "employees": [
+      {
+        "id": "1",
+        "name": "Madhavi",
+        "email": "madhavi@gmail.com",
+        "mobile": 3439266262,
+        "gender": "Female"
+      },
+      {
+        "id": "2",
+        "name": "bhoomi",
+        "email": "bhoomi@gmail.com",
+        "mobile": 3439266262,
+        "gender": "Female"
+      },
+      {
+        "id": "3",
+        "name": "gunjan",
+        "email": "gunjan@gmail.com",
+        "mobile": 9575873677,
+        "gender": "Female"
+      },
+      {
+        "id": "4",
+        "name": "Bhavya",
+        "email": "bhavya@gmail.com",
+        "mobile": 8698353535,
+        "gender": "Male"
+      },
+      {
+        "id": "5",
+        "name": "yash",
+        "email": "yash@gmail.com",
+        "mobile": 6545773547,
+        "gender": "Male"
+      }
+      
+    ]
+  }
