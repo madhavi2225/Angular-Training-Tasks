@@ -1,0 +1,5 @@
+<p>parent component: </p>
+
+<button (click)="sendtochild('hello child!')">send to child</button>
+
+<app-child [receivedparentmsg]="messagetosendparent"></app-child>

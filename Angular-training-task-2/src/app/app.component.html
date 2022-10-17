@@ -1,0 +1,18 @@
+<h2>{{title}}</h2>
+
+<br><br>
+
+<p [class.newstyle] = "isnewclassapply">hello using class</p>
+
+<p [ngClass]="{ newstyle : 'isnewclassapply' }">hello using [ngclass]</p>
+
+<p [ngStyle]="newclasses">hello using ngstyle</p>
+
+<input [(ngModel)]="studentname"><br><br>
+<input [(ngModel)]="studentname" (ngModelChange)="toLowerCase($event)">
+
+<br><br>
+
+<p mycustomDirective>my custom directive</p>
+
+<app-parent></app-parent>
